@@ -1,0 +1,8 @@
+The third assignment on the practice asked us how to install JAVA9 and how to run it on our IDEA. 
+
+You can do this for Windows or MAC OS.
+
+	1. Install the OpenJ9 version from AdoptOpenJDK website.
+	2. Open Intellij Idea creating a new project.
+	3. When prompting a new project select the J9 version. 
+	4. Creat an artifact going to settings/generate/project structure. 
